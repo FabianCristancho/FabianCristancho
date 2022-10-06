@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=18&pause=500&color=EB4D4B&width=435&lines=Hi+Folks%2C+here+Fabian+Cristancho!+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%F0%9F%91%BE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=18&pause=500&color=28A418&width=435&lines=Hi+Folks%2C+here+Fabian+Cristancho!+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%F0%9F%91%BE)](https://git.io/typing-svg)
 
 > Talk is cheap. **Show me the code**.
 
