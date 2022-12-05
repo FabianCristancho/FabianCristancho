@@ -81,6 +81,9 @@
 ## My Badgets 🎟
 [![@fabiancristancho's Holopin board](https://holopin.io/api/user/board?user=fabiancristancho)](https://holopin.io/@fabiancristancho)
 
+## My Dev Card 📖
+<a href="https://app.daily.dev/fabiancris28"><img src="https://api.daily.dev/devcards/c1e336eb066f426cb33fd1e215ae8ff6.png?r=p8g" width="400" alt="Fabian Cristancho's Dev Card"/></a>
+
 
 ## You can find me at 📍
 <p align="center">
